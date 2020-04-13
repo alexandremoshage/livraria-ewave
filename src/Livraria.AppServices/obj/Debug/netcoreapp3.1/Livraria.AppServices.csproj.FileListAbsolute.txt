@@ -1,0 +1,12 @@
+C:\Livraria\Livraria\src\Livraria.AppServices\obj\Debug\netcoreapp3.1\Livraria.AppServices.csprojAssemblyReference.cache
+C:\Livraria\Livraria\src\Livraria.AppServices\obj\Debug\netcoreapp3.1\Livraria.AppServices.csproj.CoreCompileInputs.cache
+C:\Livraria\Livraria\src\Livraria.AppServices\obj\Debug\netcoreapp3.1\Livraria.AppServices.AssemblyInfoInputs.cache
+C:\Livraria\Livraria\src\Livraria.AppServices\obj\Debug\netcoreapp3.1\Livraria.AppServices.AssemblyInfo.cs
+C:\Livraria\Livraria\src\Livraria.AppServices\bin\Debug\netcoreapp3.1\Livraria.AppServices.deps.json
+C:\Livraria\Livraria\src\Livraria.AppServices\bin\Debug\netcoreapp3.1\Livraria.AppServices.dll
+C:\Livraria\Livraria\src\Livraria.AppServices\bin\Debug\netcoreapp3.1\Livraria.AppServices.pdb
+C:\Livraria\Livraria\src\Livraria.AppServices\bin\Debug\netcoreapp3.1\Livraria.Domain.dll
+C:\Livraria\Livraria\src\Livraria.AppServices\bin\Debug\netcoreapp3.1\Livraria.Domain.pdb
+C:\Livraria\Livraria\src\Livraria.AppServices\obj\Debug\netcoreapp3.1\Livraria.AppServices.csproj.CopyComplete
+C:\Livraria\Livraria\src\Livraria.AppServices\obj\Debug\netcoreapp3.1\Livraria.AppServices.dll
+C:\Livraria\Livraria\src\Livraria.AppServices\obj\Debug\netcoreapp3.1\Livraria.AppServices.pdb
